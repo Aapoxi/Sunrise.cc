@@ -23,10 +23,10 @@ Growtopia cheat/proxy called sunrise.cc
 - Injector
 
 # Support
-Support gmail:Aapoxkurkix@gmail.com
-Support discord: Aabox#0001
+- Support gmail:Aapoxkurkix@gmail.com
+- Support discord: Aabox#0001
 
 # Credits
-Creator: Aabox#0001
-Github: https://github.com/Aapoxi
+- Creator: Aabox#0001
+- Github: https://github.com/Aapoxi
 
