@@ -1,5 +1,9 @@
 # Sunrise.cc
-Growtopia cheat/proxy called sunrise.cc
+- Growtopia cheat/proxy called sunrise.cc
+- The language lags at batch language
+- Sunrise.cc is created with visual studio
+- The real language is C#
+
 
 # Features
 - Noclip
